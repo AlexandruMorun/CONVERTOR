@@ -1,0 +1,18 @@
+﻿Build started 1/7/2017 12:34:44 PM.
+     1>Project "E:\C++\Convertor\Convertor\Convertor\Convertor.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Convertor.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Convertor.cpp
+         Convertor.cpp
+     1>e:\c++\convertor\convertor\convertor\convertor.cpp(602): warning C4715: 'lungime' : not all control paths return a value
+     1>e:\c++\convertor\convertor\convertor\convertor.cpp(686): warning C4715: 'masa' : not all control paths return a value
+     1>e:\c++\convertor\convertor\convertor\convertor.cpp(781): warning C4715: 'alegere' : not all control paths return a value
+     1>e:\c++\convertor\convertor\convertor\convertor.cpp(771): warning C4715: 'volum' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C++\Convertor\Convertor\Debug\Convertor.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\C++\Convertor\Convertor\Debug\Convertor.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C++\Convertor\Convertor\Debug\Convertor.lib" /MACHINE:X86 Debug\Convertor.obj
+         Debug\stdafx.obj
+         Convertor.vcxproj -> E:\C++\Convertor\Convertor\Debug\Convertor.exe
+     1>Done Building Project "E:\C++\Convertor\Convertor\Convertor\Convertor.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.27
